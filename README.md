@@ -1,2 +1,2 @@
 # coursera-capstone
-this is for the courser capstone project
+this is for the coursera capstone project
